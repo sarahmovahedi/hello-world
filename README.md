@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 What it do, kids?
 
